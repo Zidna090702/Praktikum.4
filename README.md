@@ -57,9 +57,9 @@ Buat file di folder untuk save hasil coding
   
     Tulis perintah dibawah ini
    
-    ![image](https://user-images.githubusercontent.com/115474076/200747506-b1524ecf-4d63-461f-9b0a-b794393f1f18.png)
+   ![image](https://user-images.githubusercontent.com/115474076/200747506-b1524ecf-4d63-461f-9b0a-b794393f1f18.png)
 
     Lalu run perintah tersebut
    
-    ![image](https://user-images.githubusercontent.com/115474076/200747591-d0497561-f941-4619-b133-2d0ac7e84fc4.png)
+   ![image](https://user-images.githubusercontent.com/115474076/200747591-d0497561-f941-4619-b133-2d0ac7e84fc4.png)
 
